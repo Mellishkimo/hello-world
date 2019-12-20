@@ -1,2 +1,2 @@
 # hello-world
-javascript noob challenges
+javascript beginner challenges
